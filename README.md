@@ -11,3 +11,5 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 - Express.JS
 
 - Handlebars
+
+This project is a work in progress.
